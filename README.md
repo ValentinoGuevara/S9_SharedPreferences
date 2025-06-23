@@ -1,4 +1,4 @@
-# App S9 - SharedPreferences Demo
+
 
 Aplicación Android de ejemplo que demuestra el uso básico de SharedPreferences para almacenamiento persistente de datos.
 
