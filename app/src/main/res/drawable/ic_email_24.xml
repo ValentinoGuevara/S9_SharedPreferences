@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Marco del sobre -->
+    <path
+        android:strokeColor="#000000"
+        android:strokeWidth="2"
+        android:pathData="M2,4 L22,4 L22,20 L2,20 Z" />
+
+    <!-- Línea inferior del triángulo del sobre -->
+    <path
+        android:strokeColor="#000000"
+        android:strokeWidth="2"
+        android:pathData="M2,4 L12,13 L22,4" />
+
+    <!-- Línea superior del triángulo interior (cierre del sobre) -->
+    <path
+        android:strokeColor="#000000"
+        android:strokeWidth="2"
+        android:pathData="M2,20 L12,11 L22,20" />
+</vector>
