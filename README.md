@@ -82,12 +82,9 @@ como evidencia de aprendizaje en desarrollo móvil con Android.
 ---
 
 ## 📜 **Licencia**  
-```text
+text
 MIT License  
 Copyright © 2025 - Valentino Guevara  
-
-Se concede permiso para uso académico y personal,  
-prohibiéndose el uso comercial sin autorización expresa.  
-<div align="center"> <sub>Creado con ❤️ por <a href="https://github.com/ValentinoGuevara">Valentino Guevara</a></sub> </div> ```
+`
 Prohibido uso comercial sin autorización expresa.
 <div align="center"> <img src="screenshots/app_demo.gif" width="300" alt="Demo animada"> <p>¡Explora el código y contribuye!</p> <a href="https://github.com/ValentinoGuevara/S9_SharedPreferences"> <img src="https://img.shields.io/badge/VER_EN_GITHUB-181717?style=for-the-badge&logo=github"> </a> </div> ```
