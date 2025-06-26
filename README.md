@@ -81,8 +81,6 @@ como evidencia de aprendizaje en desarrollo móvil con Android.
 
 ---
 
-## 📜 **Licencia**  
-text
 ## **Copyright © 2025 - Valentino Guevara** 
 `
 Prohibido uso comercial sin autorización expresa.
