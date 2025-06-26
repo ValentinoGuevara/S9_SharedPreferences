@@ -43,28 +43,28 @@ Organiza tus imágenes en /screenshots así:
   <h3>🎨 Interfaz de Usuario</h3>
   <table>
     <tr>
-      <td><img src="screenshots/01_main_light.jpg" width="200" alt="Imagen 1"></td>
-      <td><img src="screenshots/02_main_dark.jpg" width="200" alt="Imagen 2"></td>
-      <td><img src="screenshots/03_profile_form.jpg" width="200" alt="Imagen 3"></td>
+      <td><img src="screenshots/imagen1.jpg" width="200" alt="Imagen 1"></td>
+      <td><img src="screenshots/imagen2.jpg" width="200" alt="Imagen 2"></td>
+      <td><img src="screenshots/imagen3.jpg" width="200" alt="Imagen 3"></td>
     </tr>
     <tr>
-      <td><img src="screenshots/04_data_saved.jpg" width="200" alt="Imagen 4"></td>
-      <td><img src="screenshots/05_validation.jpg" width="200" alt="Imagen 5"></td>
-      <td><img src="screenshots/06_stats.jpg" width="200" alt="Imagen 6"></td>
+      <td><img src="screenshots/imagen4.jpg" width="200" alt="Imagen 4"></td>
+      <td><img src="screenshots/imagen5.jpg" width="200" alt="Imagen 5"></td>
+      <td><img src="screenshots/imagen6.jpg" width="200" alt="Imagen 6"></td>
     </tr>
     <tr>
-      <td><img src="screenshots/07_image.jpg" width="200" alt="Imagen 7"></td>
-      <td><img src="screenshots/08_image.jpg" width="200" alt="Imagen 8"></td>
-      <td><img src="screenshots/09_image.jpg" width="200" alt="Imagen 9"></td>
+      <td><img src="screenshots/imagen7.jpg" width="200" alt="Imagen 7"></td>
+      <td><img src="screenshots/imagen8.jpg" width="200" alt="Imagen 8"></td>
+      <td><img src="screenshots/imagen9.jpg" width="200" alt="Imagen 9"></td>
     </tr>
     <tr>
-      <td><img src="screenshots/10_image.jpg" width="200" alt="Imagen 10"></td>
-      <td><img src="screenshots/11_image.jpg" width="200" alt="Imagen 11"></td>
-      <td><img src="screenshots/12_image.jpg" width="200" alt="Imagen 12"></td>
+      <td><img src="screenshots/imagen10.jpg" width="200" alt="Imagen 10"></td>
+      <td><img src="screenshots/imagen11.jpg" width="200" alt="Imagen 11"></td>
+      <td><img src="screenshots/imagen12.jpg" width="200" alt="Imagen 12"></td>
     </tr>
     <tr>
-      <td><img src="screenshots/13_image.jpg" width="200" alt="Imagen 13"></td>
-      <td><img src="screenshots/14_image.jpg" width="200" alt="Imagen 14"></td>
+      <td><img src="screenshots/imagen13.jpg" width="200" alt="Imagen 13"></td>
+      <td><img src="screenshots/imagen14.jpg" width="200" alt="Imagen 14"></td>
     </tr>
   </table>
   <p>¡Captura real de la aplicación en acción!</p>
