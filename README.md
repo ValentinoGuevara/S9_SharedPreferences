@@ -69,7 +69,8 @@ Organiza tus imágenes en /screenshots así:
   </table>
   <p>¡Captura real de la aplicación en acción!</p>
 </div>
-🛠️ Implementación Técnica
+
+## 🛠️ **Implementación Técnica**
 Estructura de Código
 kotlin
 // Clase principal para manejar preferencias
