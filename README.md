@@ -39,7 +39,36 @@ Sistema de limpieza segura de datos
 
 📸 Galería de Capturas
 Organiza tus imágenes en /screenshots así:
-<div align="center"> <h3>🎨 Interfaz de Usuario</h3> <table> <tr> <td><img src="screenshots/01_main_light.jpg" width="200" alt="Modo claro"></td> <td><img src="screenshots/02_main_dark.jpg" width="200" alt="Modo oscuro"></td> <td><img src="screenshots/03_profile_form.jpg" width="200" alt="Formulario"></td> </tr> <tr> <td><img src="screenshots/04_data_saved.jpg" width="200" alt="Datos guardados"></td> <td><img src="screenshots/05_validation.jpg" width="200" alt="Validación"></td> <td><img src="screenshots/06_stats.jpg" width="200" alt="Estadísticas"></td> </tr> </table> <p>¡Captura real de la aplicación en acción!</p> </div>
+<div align="center">
+  <h3>🎨 Interfaz de Usuario</h3>
+  <table>
+    <tr>
+      <td><img src="screenshots/01_main_light.jpg" width="200" alt="Imagen 1"></td>
+      <td><img src="screenshots/02_main_dark.jpg" width="200" alt="Imagen 2"></td>
+      <td><img src="screenshots/03_profile_form.jpg" width="200" alt="Imagen 3"></td>
+    </tr>
+    <tr>
+      <td><img src="screenshots/04_data_saved.jpg" width="200" alt="Imagen 4"></td>
+      <td><img src="screenshots/05_validation.jpg" width="200" alt="Imagen 5"></td>
+      <td><img src="screenshots/06_stats.jpg" width="200" alt="Imagen 6"></td>
+    </tr>
+    <tr>
+      <td><img src="screenshots/07_image.jpg" width="200" alt="Imagen 7"></td>
+      <td><img src="screenshots/08_image.jpg" width="200" alt="Imagen 8"></td>
+      <td><img src="screenshots/09_image.jpg" width="200" alt="Imagen 9"></td>
+    </tr>
+    <tr>
+      <td><img src="screenshots/10_image.jpg" width="200" alt="Imagen 10"></td>
+      <td><img src="screenshots/11_image.jpg" width="200" alt="Imagen 11"></td>
+      <td><img src="screenshots/12_image.jpg" width="200" alt="Imagen 12"></td>
+    </tr>
+    <tr>
+      <td><img src="screenshots/13_image.jpg" width="200" alt="Imagen 13"></td>
+      <td><img src="screenshots/14_image.jpg" width="200" alt="Imagen 14"></td>
+    </tr>
+  </table>
+  <p>¡Captura real de la aplicación en acción!</p>
+</div>
 🛠️ Implementación Técnica
 Estructura de Código
 kotlin
