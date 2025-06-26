@@ -1,4 +1,4 @@
-# 📱 UserProfile Manager - Gestor de Perfiles con SharedPreferences
+# 📱 UserProfile Manager - Gestor de Perfiles con SharedPreferences -S9
 
 **Desarrollado por:** Valentino Guevara  
 **Contacto:** [202114033@uns.edu.pe](mailto:202114033@uns.edu.pe)  
@@ -6,7 +6,7 @@
 **Curso:** Aplicaciones Móviles - Semana 9  
 
 <div align="center">
-  <img src="screenshots/app_banner.png" width="800" alt="Banner de la aplicación">
+  <img src="screenshots/imagen1.jpg" width="800" alt="Banner de la aplicación">
 </div>
 
 ## 🔍 ¿Cómo funciona el programa?
