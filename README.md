@@ -40,7 +40,66 @@ Sistema de limpieza segura de datos
 📸 Galería de Capturas
 Organiza tus imágenes en /screenshots así:
 
-<div align="center"> <h3>🎨 Interfaz de Usuario</h3> <table> <tr> <td><img src="screenshots/01_main_light.jpg" width="200" alt="Modo claro"></td> <td><img src="screenshots/02_main_dark.jpg" width="200" alt="Modo oscuro"></td> <td><img src="screenshots/03_profile_form.jpg" width="200" alt="Formulario"></td> </tr> <tr> <td><img src="screenshots/04_data_saved.jpg" width="200" alt="Datos guardados"></td> <td><img src="screenshots/05_validation.jpg" width="200" alt="Validación"></td> <td><img src="screenshots/06_stats.jpg" width="200" alt="Estadísticas"></td> </tr> </table> <p>¡Captura real de la aplicación en acción!</p> </div>
+<div align="center">
+  <h2>🖼️ Galería de la Aplicación</h2>
+  <p>Capturas reales del funcionamiento de la app</p>
+  
+  <table>
+    <!-- Fila 1 -->
+    <tr>
+      <td align="center"><img src="screenshots/01_splash.jpg" width="180" alt="Pantalla de inicio"></td>
+      <td align="center"><img src="screenshots/02_main_light.jpg" width="180" alt="Modo claro"></td>
+      <td align="center"><img src="screenshots/03_main_dark.jpg" width="180" alt="Modo oscuro"></td>
+      <td align="center"><img src="screenshots/04_menu.jpg" width="180" alt="Menú principal"></td>
+    </tr>
+    <tr>
+      <td align="center"><em>Pantalla de bienvenida</em></td>
+      <td align="center"><em>Modo claro activado</em></td>
+      <td align="center"><em>Modo oscuro activado</em></td>
+      <td align="center"><em>Opciones principales</em></td>
+    </tr>
+    
+    <!-- Fila 2 -->
+    <tr>
+      <td align="center"><img src="screenshots/05_form_empty.jpg" width="180" alt="Formulario vacío"></td>
+      <td align="center"><img src="screenshots/06_form_filled.jpg" width="180" alt="Formulario completo"></td>
+      <td align="center"><img src="screenshots/07_validation.jpg" width="180" alt="Validación"></td>
+      <td align="center"><img src="screenshots/08_success.jpg" width="180" alt="Datos guardados"></td>
+    </tr>
+    <tr>
+      <td align="center"><em>Formulario nuevo</em></td>
+      <td align="center"><em>Datos completados</em></td>
+      <td align="center"><em>Validación de campos</em></td>
+      <td align="center"><em>Confirmación</em></td>
+    </tr>
+    
+    <!-- Fila 3 -->
+    <tr>
+      <td align="center"><img src="screenshots/09_profile.jpg" width="180" alt="Perfil"></td>
+      <td align="center"><img src="screenshots/10_stats.jpg" width="180" alt="Estadísticas"></td>
+      <td align="center"><img src="screenshots/11_settings.jpg" width="180" alt="Configuración"></td>
+      <td align="center"><img src="screenshots/12_dark_theme.jpg" width="180" alt="Tema oscuro"></td>
+    </tr>
+    <tr>
+      <td align="center"><em>Perfil guardado</em></td>
+      <td align="center"><em>Estadísticas de uso</em></td>
+      <td align="center"><em>Ajustes</em></td>
+      <td align="center"><em>Personalización</em></td>
+    </tr>
+    
+    <!-- Fila 4 -->
+    <tr>
+      <td align="center" colspan="2"><img src="screenshots/13_animacion.gif" width="360" alt="Demo animada"></td>
+      <td align="center" colspan="2"><img src="screenshots/14_responsive.jpg" width="360" alt="Vista responsive"></td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2"><em>Función completa en GIF</em></td>
+      <td align="center" colspan="2"><em>Adaptación a pantallas</em></td>
+    </tr>
+  </table>
+  
+  <p>✨ <strong>Experiencia de usuario fluida e intuitiva</strong> ✨</p>
+</div>
 🛠️ Implementación Técnica
 Estructura de Código
 kotlin
