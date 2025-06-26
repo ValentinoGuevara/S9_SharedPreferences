@@ -65,20 +65,29 @@ class PrefsManager(context: Context) {
     }
 }
 
-##🌟 Sobre el Proyecto ##
-### Este proyecto fue desarrollado como parte de la Semana 9 del curso de Aplicaciones Móviles, demostrando:###
+## 🌟 **Sobre el Proyecto**  
 
-##✅ Manejo profesional de SharedPreferences##
+Este proyecto fue desarrollado como parte de la **Semana 9** del curso de Aplicaciones Móviles, demostrando:  
 
-##✅ Implementación de temas dinámicos##
+### 🛠 **Tecnologías y Habilidades**  
+- ✅ **Manejo profesional** de SharedPreferences  
+- ✅ Implementación de **temas dinámicos** (claro/oscuro)  
+- ✅ **Buenas prácticas** de persistencia local  
+- ✅ Arquitectura **limpia y mantenible**  
 
-##✅ Buenas prácticas de persistencia local##
+### 📚 **Contexto Académico**  
+Proyecto desarrollado para la **Universidad Nacional del Santa (UNS)**  
+como evidencia de aprendizaje en desarrollo móvil con Android.  
 
-##✅ Arquitectura limpia y mantenible##
+---
 
+## 📜 **Licencia**  
+```text
+MIT License  
+Copyright © 2025 - Valentino Guevara  
 
-#Copyright (c) 2025 Valentino Guevara#
-
-Permiso concedido para uso académico y personal.
+Se concede permiso para uso académico y personal,  
+prohibiéndose el uso comercial sin autorización expresa.  
+<div align="center"> <sub>Creado con ❤️ por <a href="https://github.com/ValentinoGuevara">Valentino Guevara</a></sub> </div> ```
 Prohibido uso comercial sin autorización expresa.
 <div align="center"> <img src="screenshots/app_demo.gif" width="300" alt="Demo animada"> <p>¡Explora el código y contribuye!</p> <a href="https://github.com/ValentinoGuevara/S9_SharedPreferences"> <img src="https://img.shields.io/badge/VER_EN_GITHUB-181717?style=for-the-badge&logo=github"> </a> </div> ```
