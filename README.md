@@ -65,14 +65,7 @@ class PrefsManager(context: Context) {
     }
 }
 
-📦 Dependencias
-gradle
-dependencies {
-    implementation 'androidx.core:core-ktx:1.12.0'
-    implementation 'com.google.android.material:material:1.11.0'
-    implementation 'androidx.appcompat:appcompat:1.6.1'
-}
-🌟 Sobre el Proyecto
+**🌟 Sobre el Proyecto
 Este proyecto fue desarrollado como parte de la Semana 9 del curso de Aplicaciones Móviles, demostrando:
 
 ✅ Manejo profesional de SharedPreferences
@@ -81,13 +74,13 @@ Este proyecto fue desarrollado como parte de la Semana 9 del curso de Aplicacion
 
 ✅ Buenas prácticas de persistencia local
 
-✅ Arquitectura limpia y mantenible
+✅ Arquitectura limpia y mantenible**
 
-📄 Licencia
+**📄 Licencia**
 text
 MIT License
-Copyright (c) 2025 Valentino Guevara
+**Copyright (c) 2025 Valentino Guevara**
 
 Permiso concedido para uso académico y personal.
 Prohibido uso comercial sin autorización expresa.
-<div align="center"> <img src="screenshots/app_demo.gif" width="300" alt="Demo animada"> <p>¡Explora el código y contribuye!</p> <a href="https://github.com/ValentinoGuevara/app_s9"> <img src="https://img.shields.io/badge/VER_EN_GITHUB-181717?style=for-the-badge&logo=github"> </a> </div> ```
+<div align="center"> <img src="screenshots/app_demo.gif" width="300" alt="Demo animada"> <p>¡Explora el código y contribuye!</p> <a href="https://github.com/ValentinoGuevara/S9_SharedPreferences"> <img src="https://img.shields.io/badge/VER_EN_GITHUB-181717?style=for-the-badge&logo=github"> </a> </div> ```
