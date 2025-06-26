@@ -39,66 +39,84 @@ Sistema de limpieza segura de datos
 
 📸 Galería de Capturas
 Organiza tus imágenes en /screenshots así:
-
 <div align="center">
-  <h2>🖼️ Galería de la Aplicación</h2>
-  <p>Capturas reales del funcionamiento de la app</p>
+  <h2>📱 Galería Completa de la Aplicación</h2>
   
   <table>
-    <!-- Fila 1 -->
+    <!-- Primera fila -->
     <tr>
-      <td align="center"><img src="screenshots/01_splash.jpg" width="180" alt="Pantalla de inicio"></td>
-      <td align="center"><img src="screenshots/02_main_light.jpg" width="180" alt="Modo claro"></td>
-      <td align="center"><img src="screenshots/03_main_dark.jpg" width="180" alt="Modo oscuro"></td>
-      <td align="center"><img src="screenshots/04_menu.jpg" width="180" alt="Menú principal"></td>
-    </tr>
-    <tr>
-      <td align="center"><em>Pantalla de bienvenida</em></td>
-      <td align="center"><em>Modo claro activado</em></td>
-      <td align="center"><em>Modo oscuro activado</em></td>
-      <td align="center"><em>Opciones principales</em></td>
-    </tr>
-    
-    <!-- Fila 2 -->
-    <tr>
-      <td align="center"><img src="screenshots/05_form_empty.jpg" width="180" alt="Formulario vacío"></td>
-      <td align="center"><img src="screenshots/06_form_filled.jpg" width="180" alt="Formulario completo"></td>
-      <td align="center"><img src="screenshots/07_validation.jpg" width="180" alt="Validación"></td>
-      <td align="center"><img src="screenshots/08_success.jpg" width="180" alt="Datos guardados"></td>
-    </tr>
-    <tr>
-      <td align="center"><em>Formulario nuevo</em></td>
-      <td align="center"><em>Datos completados</em></td>
-      <td align="center"><em>Validación de campos</em></td>
-      <td align="center"><em>Confirmación</em></td>
+      <td align="center">
+        <img src="screenshots/01_splash.png" width="200" alt="Pantalla Splash">
+        <br><sub><b>Pantalla de inicio</b></sub>
+      </td>
+      <td align="center">
+        <img src="screenshots/02_main_light.png" width="200" alt="Modo Claro">
+        <br><sub><b>Vista principal (claro)</b></sub>
+      </td>
+      <td align="center">
+        <img src="screenshots/03_main_dark.png" width="200" alt="Modo Oscuro">
+        <br><sub><b>Vista principal (oscuro)</b></sub>
+      </td>
     </tr>
     
-    <!-- Fila 3 -->
+    <!-- Segunda fila -->
     <tr>
-      <td align="center"><img src="screenshots/09_profile.jpg" width="180" alt="Perfil"></td>
-      <td align="center"><img src="screenshots/10_stats.jpg" width="180" alt="Estadísticas"></td>
-      <td align="center"><img src="screenshots/11_settings.jpg" width="180" alt="Configuración"></td>
-      <td align="center"><img src="screenshots/12_dark_theme.jpg" width="180" alt="Tema oscuro"></td>
-    </tr>
-    <tr>
-      <td align="center"><em>Perfil guardado</em></td>
-      <td align="center"><em>Estadísticas de uso</em></td>
-      <td align="center"><em>Ajustes</em></td>
-      <td align="center"><em>Personalización</em></td>
+      <td align="center">
+        <img src="screenshots/04_form_empty.png" width="200" alt="Formulario Vacío">
+        <br><sub><b>Formulario nuevo</b></sub>
+      </td>
+      <td align="center">
+        <img src="screenshots/05_form_filled.png" width="200" alt="Formulario Completo">
+        <br><sub><b>Datos ingresados</b></sub>
+      </td>
+      <td align="center">
+        <img src="screenshots/06_validation.png" width="200" alt="Validación">
+        <br><sub><b>Validación de campos</b></sub>
+      </td>
     </tr>
     
-    <!-- Fila 4 -->
+    <!-- Tercera fila -->
     <tr>
-      <td align="center" colspan="2"><img src="screenshots/13_animacion.gif" width="360" alt="Demo animada"></td>
-      <td align="center" colspan="2"><img src="screenshots/14_responsive.jpg" width="360" alt="Vista responsive"></td>
+      <td align="center">
+        <img src="screenshots/07_success.png" width="200" alt="Éxito">
+        <br><sub><b>Confirmación</b></sub>
+      </td>
+      <td align="center">
+        <img src="screenshots/08_profile.png" width="200" alt="Perfil">
+        <br><sub><b>Perfil guardado</b></sub>
+      </td>
+      <td align="center">
+        <img src="screenshots/09_stats.png" width="200" alt="Estadísticas">
+        <br><sub><b>Estadísticas</b></sub>
+      </td>
     </tr>
+    
+    <!-- Cuarta fila -->
     <tr>
-      <td align="center" colspan="2"><em>Función completa en GIF</em></td>
-      <td align="center" colspan="2"><em>Adaptación a pantallas</em></td>
+      <td align="center">
+        <img src="screenshots/10_settings.png" width="200" alt="Configuración">
+        <br><sub><b>Ajustes</b></sub>
+      </td>
+      <td align="center">
+        <img src="screenshots/11_theme_change.gif" width="200" alt="Cambio de Tema">
+        <br><sub><b>Cambio de tema</b></sub>
+      </td>
+      <td align="center">
+        <img src="screenshots/12_responsive.png" width="200" alt="Responsive">
+        <br><sub><b>Adaptabilidad</b></sub>
+      </td>
+    </tr>
+    
+    <!-- Quinta fila -->
+    <tr>
+      <td align="center" colspan="3">
+        <img src="screenshots/13_demo.gif" width="400" alt="Demo Completa">
+        <br><sub><b>Función completa</b></sub>
+      </td>
     </tr>
   </table>
-  
-  <p>✨ <strong>Experiencia de usuario fluida e intuitiva</strong> ✨</p>
+
+  <p>✨ <b>Interfaz intuitiva y experiencia de usuario fluida</b> ✨</p>
 </div>
 🛠️ Implementación Técnica
 Estructura de Código
