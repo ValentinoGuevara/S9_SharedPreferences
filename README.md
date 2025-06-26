@@ -65,19 +65,19 @@ class PrefsManager(context: Context) {
     }
 }
 
-**🌟 Sobre el Proyecto**
-**Este proyecto fue desarrollado como parte de la Semana 9 del curso de Aplicaciones Móviles, demostrando:**
+##🌟 Sobre el Proyecto ##
+### Este proyecto fue desarrollado como parte de la Semana 9 del curso de Aplicaciones Móviles, demostrando:###
 
-**✅ Manejo profesional de SharedPreferences**
+##✅ Manejo profesional de SharedPreferences##
 
-**✅ Implementación de temas dinámicos**
+##✅ Implementación de temas dinámicos##
 
-**✅ Buenas prácticas de persistencia local**
+##✅ Buenas prácticas de persistencia local##
 
-**✅ Arquitectura limpia y mantenible**
+##✅ Arquitectura limpia y mantenible##
 
 
-**Copyright (c) 2025 Valentino Guevara**
+#Copyright (c) 2025 Valentino Guevara#
 
 Permiso concedido para uso académico y personal.
 Prohibido uso comercial sin autorización expresa.
